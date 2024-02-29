@@ -7,3 +7,9 @@ class Obj{
         this.a = a
     }
 }
+
+class Enemy extends Obj{
+    draw_car(){
+           
+    }
+}
