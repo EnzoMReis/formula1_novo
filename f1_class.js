@@ -9,7 +9,17 @@ class Obj{
 }
 
 class Enemy extends Obj{
-    draw_car(){
+    atual_car(){
            
+    }
+
+    redo(){
+
+    }
+}
+
+class Text{
+    draw_text(){
+
     }
 }
