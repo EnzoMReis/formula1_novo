@@ -8,8 +8,9 @@ class Obj{
     }
 }
 
-class Enemy extends Obj{
+class Car extends Obj{
     draw_car(){
            
     }
+
 }
